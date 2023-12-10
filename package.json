@@ -1,9 +1,22 @@
 {
-  "name": "Nightingale",
+  "name": "nightingale",
   "displayName": "Nightingale",
   "description": "Nightingale",
   "version": "0.0.1",
-  "author": "Houssem Slimani",
+  "publisher": "HoussemSlimani",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Slimaniiiii/Nightingale"
+    },
+  "keywords": [
+    "theme",
+    "dark",
+    "nightingale",
+    "night",
+    "dark-theme",
+    "dark-theme-vscode",
+    "dark-theme-visual-studio-code"
+  ],
   "engines": {
     "vscode": "^1.85.0"
   },

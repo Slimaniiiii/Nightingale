@@ -1,0 +1,23 @@
+{
+  "name": "Nightingale",
+  "displayName": "Nightingale",
+  "description": "Nightingale",
+  "version": "0.0.1",
+  "author": "Houssem Slimani",
+  "engines": {
+    "vscode": "^1.85.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "icon": "icon.png",
+  "contributes": {
+    "themes": [
+      {
+        "label": "Nightingale",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Nightingale-color-theme.json"
+      }
+    ]
+  }
+}
